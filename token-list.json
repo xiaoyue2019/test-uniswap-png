@@ -1,0 +1,25 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://x1a0.net/img/ch2.jpg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 3,
+      "address": "0xf6B40Ff3b468dccdbb10428E45E75571328E10BE",
+      "name": "xiaoyue",
+      "symbol": "xiaoyue",
+      "decimals": 18,
+      "logoURI": "https://x1a0.net/img/ch2.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
